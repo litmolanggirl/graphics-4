@@ -1,0 +1,4 @@
+C:\Users\Оксана\Desktop\с++\Skybox\x64\Debug\Skybox.vcxproj.CopyComplete
+C:\Users\Оксана\Desktop\с++\Skybox\x64\Debug\скайбокс.exe
+C:\Users\Оксана\Desktop\с++\Skybox\x64\Debug\freeglutd.dll
+C:\Users\Оксана\Desktop\с++\Skybox\x64\Debug\glew32d.dll

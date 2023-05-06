@@ -1,0 +1,4 @@
+C:\Users\Оксана\Desktop\с++\карта нормалей\x64\Debug\карта нормалей.exe
+C:\Users\Оксана\Desktop\с++\карта нормалей\x64\Debug\карта нормалей.vcxproj.CopyComplete
+C:\Users\Оксана\Desktop\с++\карта нормалей\x64\Debug\freeglutd.dll
+C:\Users\Оксана\Desktop\с++\карта нормалей\x64\Debug\glew32d.dll

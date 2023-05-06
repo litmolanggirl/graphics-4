@@ -1,0 +1,4 @@
+C:\Users\Оксана\Desktop\с++\карта теней\x64\Debug\карта теней.exe
+C:\Users\Оксана\Desktop\с++\карта теней\x64\Debug\карта теней.vcxproj.CopyComplete
+C:\Users\Оксана\Desktop\с++\карта теней\x64\Debug\freeglutd.dll
+C:\Users\Оксана\Desktop\с++\карта теней\x64\Debug\glew32d.dll
